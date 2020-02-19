@@ -15,3 +15,4 @@ The tutorial contains the following topics :
 #8.importing module
 
 the following codes are meant for practical understanding of working of codes so , i have put up this tutorial in .py files .
+the above tutorial can be mastered in 1hour
