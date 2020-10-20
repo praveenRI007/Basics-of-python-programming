@@ -16,3 +16,4 @@ The tutorial contains the following topics :
 
 the following codes are meant for practical understanding of working of codes so , i have put up this tutorial in .py files .
 the above tutorial can be mastered in 1hour
+i want to read a good python data structures and algorithms book and create a good repo for python as i consider my past upload ie this one not very valid and clear for programmers.
